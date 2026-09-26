@@ -1,0 +1,24 @@
+{
+  "users": {
+    "b63e273c1e196dfcd8efe453743a9f9f": {
+      "id": "b63e273c1e196dfcd8efe453743a9f9f",
+      "username": "admin",
+      "email": "admin@healthcare.local",
+      "full_name": "System Administrator",
+      "role": "admin",
+      "created_at": "2026-02-20T16:21:15.668279",
+      "last_login": "2026-09-26T23:35:26.931113",
+      "is_active": true,
+      "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    }
+  },
+  "sessions": {
+    "4fbb935056c890897bf4f6b79ed5bf6fe3d7d3b95528ec7ea4b483f3743f7ee1": {
+      "session_id": "4fbb935056c890897bf4f6b79ed5bf6fe3d7d3b95528ec7ea4b483f3743f7ee1",
+      "user_id": "b63e273c1e196dfcd8efe453743a9f9f",
+      "created_at": "2026-09-26T23:35:26.931534",
+      "expires_at": "2026-09-27T23:35:26.931534",
+      "is_active": true
+    }
+  }
+}
