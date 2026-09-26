@@ -2,7 +2,6 @@
 FastAPI Backend for Healthcare Planning Assistant
 RESTful API endpoints for healthcare task planning
 """
-
 from fastapi import FastAPI, HTTPException, BackgroundTasks, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
